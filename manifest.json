@@ -1,0 +1,11 @@
+{
+  "name": "Test Extension",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "This is a test extension.",
+  "default_locale": "en",
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
