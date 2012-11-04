@@ -3,5 +3,5 @@ chrome.extension.sendMessage({message: "Hello"}, function(response) {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-	document.getElementById("me").innerHTML = "This is a message from myself.";
+	document.getElementById("me").innerHTML = "This is a message from MY VERY PRETTY self.";
 }, false );
